@@ -51,6 +51,6 @@ echo '#####################################'
 echo '# Run followings after installation'
 echo '#####################################'
 echo "pyenv virtualenv ${PY_VER} {Your name of virtualenv}"
-echo 'mv requirements.txt {project dir}'
+echo 'copy requirements.txt {project dir}'
 echo 'cd {project dir}'
 echo "pip install -r requirements.txt"

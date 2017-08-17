@@ -14,10 +14,10 @@ Install virtualenv
 $ pyenv virtualenv ${PY_VER} {Your name of virtualenv}
 ```
 
-Move requirements.txt to project dircetory.
+Copy requirements.txt to project dircetory.
 
 ```
-$ mv requirements.txt {project dir}
+$ cp requirements.txt {project dir}
 ```
 
 Move to project dircetory.
