@@ -50,6 +50,7 @@ echo ''
 echo '#####################################'
 echo '# Run followings after installation'
 echo '#####################################'
+echo 'source ~/.bash_profile'
 echo "pyenv virtualenv ${PY_VER} {Your name of virtualenv}"
 echo 'cp requirements.txt {project dir}'
 echo 'cd {project dir}'

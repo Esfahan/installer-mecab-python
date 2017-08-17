@@ -8,6 +8,12 @@ $ bash setup.sh
 ```
 
 ## Run followings after installation
+Load envs
+
+```
+$ source ~/.bash_profile
+```
+
 Install virtualenv
 
 ```
