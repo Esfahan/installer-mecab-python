@@ -1,6 +1,5 @@
 #!/bin/bash
 PY_VER=3.6.2
-PY_NAME='meacb-installer'
 
 source ~/.bash_profile
 
